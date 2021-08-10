@@ -8,3 +8,5 @@ pip install PyPDF2
 pip install gtts
 
 pip install streamlit
+
+pip install pyttsx3
